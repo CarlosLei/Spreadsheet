@@ -1,0 +1,14 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\finddialog.o
+./release\gotocell.o
+./release\sortdialong.o
+./release\spreadsheet.o
+./release\cell.o
+./release\qrc_Icons.o
+./release\moc_mainwindow.o
+./release\moc_finddialog.o
+./release\moc_gotocell.o
+./release\moc_sortdialong.o
+);

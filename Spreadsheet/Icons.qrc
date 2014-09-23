@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/anger.png</file>
+        <file>images/close.png</file>
+        <file>images/copy.png</file>
+        <file>images/cry.png</file>
+        <file>images/cut.png</file>
+        <file>images/help.png</file>
+        <file>images/logout.png</file>
+        <file>images/naughty.png</file>
+        <file>images/new.png</file>
+        <file>images/open.png</file>
+        <file>images/paste.png</file>
+        <file>images/save.png</file>
+        <file>images/save-as.png</file>
+        <file>images/scare.png</file>
+        <file>images/search.png</file>
+        <file>images/shy.png</file>
+        <file>images/smile.png</file>
+        <file>images/undo.png</file>
+    </qresource>
+</RCC>
